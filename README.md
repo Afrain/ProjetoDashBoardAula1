@@ -1,4 +1,8 @@
+
+
 # Projeto Dashboard - Estatistica Aplicada
+
+<img width="960" height="793" alt="Atividade 1" src="https://github.com/user-attachments/assets/ec0635c5-5ca4-4889-9a80-8499411a5ef6" />
 
 Dashboard interativo desenvolvido com Python para analise de dados socioeconomicos.
 
